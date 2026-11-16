@@ -8,10 +8,10 @@
 
 Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, with the subscriptions you already have.
 
-[![Latest release](https://img.shields.io/github/v/release/OpenCognitOS/opencognit-releases?include_prereleases&color=d8b46a&label=release)](https://github.com/OpenCognitOS/opencognit-releases/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/OpenCognitOS/opencognit-releases?color=d8b46a&label=release)](https://github.com/OpenCognitOS/opencognit-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/OpenCognitOS/opencognit-releases/total?color=d8b46a)](https://github.com/OpenCognitOS/opencognit-releases/releases)
-[![Discord](https://img.shields.io/badge/Discord-join%20the%20beta-5865F2?logo=discord&logoColor=white)](https://discord.gg/xASbhwdaS)
-[![Website](https://img.shields.io/badge/website-opencognitos.github.io-d8b46a)](https://opencognit.com)
+[![Website](https://img.shields.io/badge/website-opencognit.com-d8b46a)](https://opencognit.com/gh/)
+[![Discord](https://img.shields.io/badge/Discord-community-5865F2?logo=discord&logoColor=white)](https://discord.gg/xASbhwdaS)
 
 **[⬇ Download for Linux](https://github.com/OpenCognitOS/opencognit-releases/releases/latest/download/OpenCognit-linux-x86_64.AppImage)** · **[⬇ Download for Windows](https://github.com/OpenCognitOS/opencognit-releases/releases/latest/download/OpenCognit-windows-setup.exe)** · [.deb](https://github.com/OpenCognitOS/opencognit-releases/releases/latest/download/OpenCognit-linux-amd64.deb) · [All releases](https://github.com/OpenCognitOS/opencognit-releases/releases)
 
@@ -21,10 +21,10 @@ Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, wi
 
 <p align="center">
   <a href="https://github.com/OpenCognitOS/opencognit-releases/raw/main/assets/teaser.mp4">
-    <img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/teaser-poster.jpg" width="820" alt="Watch the 30-second teaser" />
+    <img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/teaser-poster.jpg" width="820" alt="Watch the 20-second teaser" />
   </a>
   <br />
-  <sub>▶ <a href="https://github.com/OpenCognitOS/opencognit-releases/raw/main/assets/teaser.mp4">Watch the 30-second teaser</a></sub>
+  <sub>▶ <a href="https://github.com/OpenCognitOS/opencognit-releases/raw/main/assets/teaser.mp4">Watch the 20-second teaser</a></sub>
 </p>
 
 <table>
@@ -33,7 +33,11 @@ Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, wi
     <td width="50%"><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/orchestrator.jpg" alt="Orchestrator" /><br /><b>Orchestrator</b> — describe a goal, it hands out the work</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/kosmos.jpg" alt="Kosmos" /><br /><b>Kosmos</b> — watch live who reads or edits which file</td>
+    <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/tasks.jpg" alt="Task wall" /><br /><b>Task wall</b> — every task traced from start to commit</td>
+    <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/kosmos.jpg" alt="Cosmos" /><br /><b>Cosmos</b> — your project in 3D: who reads or edits which file, live</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/neurons.jpg" alt="Neurons" /><br /><b>Neurons</b> — agents firing through your codebase</td>
     <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/guardrails.jpg" alt="Guardrails" /><br /><b>Guardrails</b> — risky commands wait for your OK</td>
   </tr>
   <tr>
@@ -43,7 +47,8 @@ Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, wi
 </table>
 
 - **Local.** No cloud, no account, no telemetry — it uses the CLIs you already have.
+- **Safe by default.** Every shell command is checked against your guardrails; signed updates only.
+- **When a limit hits,** another agent takes over the work.
 - **Free:** 4 agents and 2 projects, every feature. **Full version:** €69 once, 12 months of updates, no subscription.
 
-> [!NOTE]
-> OpenCognit is in **beta**. Feedback and bug reports are very welcome on [Discord](https://discord.gg/xASbhwdaS).
+Questions, feedback or a bug? Join us on [Discord](https://discord.gg/xASbhwdaS) or write to support@opencognit.com.

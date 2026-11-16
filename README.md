@@ -11,7 +11,7 @@ Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, wi
 [![Latest release](https://img.shields.io/github/v/release/OpenCognitOS/opencognit-releases?include_prereleases&color=d8b46a&label=release)](https://github.com/OpenCognitOS/opencognit-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/OpenCognitOS/opencognit-releases/total?color=d8b46a)](https://github.com/OpenCognitOS/opencognit-releases/releases)
 [![Discord](https://img.shields.io/badge/Discord-join%20the%20beta-5865F2?logo=discord&logoColor=white)](https://discord.gg/xASbhwdaS)
-[![Website](https://img.shields.io/badge/website-opencognitos.github.io-d8b46a)](https://opencognitos.github.io)
+[![Website](https://img.shields.io/badge/website-opencognitos.github.io-d8b46a)](https://opencognit.com)
 
 **[⬇ Download for Linux](https://github.com/OpenCognitOS/opencognit-releases/releases/latest/download/OpenCognit-linux-x86_64.AppImage)** · **[⬇ Download for Windows](https://github.com/OpenCognitOS/opencognit-releases/releases/latest/download/OpenCognit-windows-setup.exe)** · [.deb](https://github.com/OpenCognitOS/opencognit-releases/releases/latest/download/OpenCognit-linux-amd64.deb) · [All releases](https://github.com/OpenCognitOS/opencognit-releases/releases)
 

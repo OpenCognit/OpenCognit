@@ -1,17 +1,17 @@
 <div align="center">
 
-<img width="2000" alt="OpenCognit — Every coding agent. One window." src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/banner.jpg" />
+<img width="1200" alt="OpenCognit — You think. They build." src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/banner.jpg" />
 
 # OpenCognit
 
-**Every coding agent. One window.**
+**You think. They build.**
 
 Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, with the subscriptions you already have.
 
 [![Latest release](https://img.shields.io/github/v/release/OpenCognitOS/opencognit-releases?color=d8b46a&label=release)](https://github.com/OpenCognitOS/opencognit-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/OpenCognitOS/opencognit-releases/total?color=d8b46a)](https://github.com/OpenCognitOS/opencognit-releases/releases)
-[![Website](https://img.shields.io/badge/website-opencognit.com-d8b46a)](https://opencognit.com/gh/)
-[![Discord](https://img.shields.io/badge/Discord-community-5865F2?logo=discord&logoColor=white)](https://discord.gg/xASbhwdaS)
+[![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fopencognit.com%2Fstats.json&query=%24.downloads&label=downloads&color=d8b46a)](https://github.com/OpenCognitOS/opencognit-releases/releases)
+[![Website](https://img.shields.io/badge/website-opencognit.com-d8b46a)](https://opencognit.com)
+[![Discord](https://img.shields.io/badge/Discord-join%20us-5865F2?logo=discord&logoColor=white)](https://discord.gg/xASbhwdaS)
 
 **[⬇ Download for Linux](https://github.com/OpenCognitOS/opencognit-releases/releases/latest/download/OpenCognit-linux-x86_64.AppImage)** · **[⬇ Download for Windows](https://github.com/OpenCognitOS/opencognit-releases/releases/latest/download/OpenCognit-windows-setup.exe)** · [.deb](https://github.com/OpenCognitOS/opencognit-releases/releases/latest/download/OpenCognit-linux-amd64.deb) · [All releases](https://github.com/OpenCognitOS/opencognit-releases/releases)
 
@@ -20,11 +20,9 @@ Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, wi
 ---
 
 <p align="center">
-  <a href="https://github.com/OpenCognitOS/opencognit-releases/raw/main/assets/teaser.mp4">
-    <img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/teaser-poster.jpg" width="820" alt="Watch the 20-second teaser" />
-  </a>
+  <img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/neurons.webp" width="820" alt="Neurons: agents as rings, pulses in their colour" />
   <br />
-  <sub>▶ <a href="https://github.com/OpenCognitOS/opencognit-releases/raw/main/assets/teaser.mp4">Watch the 20-second teaser</a></sub>
+  <sub><b>Neurons</b> — every agent is a ring at the folder it works in; pulses run along the branches in its colour</sub>
 </p>
 
 <table>
@@ -33,12 +31,12 @@ Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, wi
     <td width="50%"><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/orchestrator.jpg" alt="Orchestrator" /><br /><b>Orchestrator</b> — describe a goal, it hands out the work</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/tasks.jpg" alt="Task wall" /><br /><b>Task wall</b> — every task traced from start to commit</td>
-    <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/kosmos.jpg" alt="Cosmos" /><br /><b>Cosmos</b> — your project in 3D: who reads or edits which file, live</td>
+    <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/atlas.jpg" alt="Atlas" /><br /><b>Atlas</b> — your project as a brain map: which agent works in which area</td>
+    <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/layers.jpg" alt="Layers" /><br /><b>Layers</b> — agents, project areas and outcome at a glance</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/neurons.jpg" alt="Neurons" /><br /><b>Neurons</b> — agents firing through your codebase</td>
     <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/guardrails.jpg" alt="Guardrails" /><br /><b>Guardrails</b> — risky commands wait for your OK</td>
+    <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/tasks.jpg" alt="Task wall" /><br /><b>Task wall</b> — every task traced from start to commit</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/OpenCognitOS/opencognit-releases/main/assets/screens/preview.jpg" alt="Preview" /><br /><b>Live preview</b> — the result right next to your agents</td>
@@ -51,4 +49,4 @@ Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, wi
 - **When a limit hits,** another agent takes over the work.
 - **Free:** 4 agents and 2 projects, every feature. **Full version:** €69 once, 12 months of updates, no subscription.
 
-Questions, feedback or a bug? Join us on [Discord](https://discord.gg/xASbhwdaS) or write to support@opencognit.com.
+Questions, feedback or a bug? Join us on [Discord](https://discord.gg/xASbhwdaS), open an [issue](https://github.com/Panto92/Opencognit/issues/new/choose) or write to support@opencognit.com.

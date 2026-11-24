@@ -15,6 +15,8 @@ Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, wi
 
 **[⬇ Download for Linux](https://github.com/OpenCognitOS/opencognit-releases/releases/latest/download/OpenCognit-linux-x86_64.AppImage)** · **[⬇ Download for Windows](https://github.com/OpenCognitOS/opencognit-releases/releases/latest/download/OpenCognit-windows-setup.exe)** · [.deb](https://github.com/OpenCognitOS/opencognit-releases/releases/latest/download/OpenCognit-linux-amd64.deb) · [All releases](https://github.com/OpenCognitOS/opencognit-releases/releases)
 
+**macOS** (Apple Silicon, beta) — in Terminal: `curl -fsSL https://opencognit.com/install.sh | sh`
+
 </div>
 
 ---
